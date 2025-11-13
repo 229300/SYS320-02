@@ -1,0 +1,8 @@
+To: daniel.scott@mymail.champlain.edu
+Subject: Failed Logins
+Nov 13 authentication failure; user=champuser
+Nov 13 authentication failure; user=champuser
+Nov 13 authentication failure; user=champuser
+Nov 13 authentication failure; user=champuser
+Nov 13 authentication failure; user=champuser
+
