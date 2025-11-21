@@ -1,6 +1,3 @@
-To: daniel.scott@mymail.champlain.edu
-Subject: File Access Log
-
 Thu Nov 20 10-11-28 PM
 Thu Nov 20 10-11-44 PM
 Thu Nov 20 10-15-32 PM

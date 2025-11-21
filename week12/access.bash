@@ -1,7 +1,7 @@
 #!/bin/bash
 
 timestamp=$(date "+%a %b %d %I-%M-%S %p")
-echo "timestamp" >> fileaccesslog.txt
+echo "$timestamp" >> fileaccesslog.txt
 
 sed -i 's/:/-/g' fileaccesslog.txt
 
